@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/verse-group.blank-la6y7xpx",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve kNfoayrFJgNLdjWJVD4b --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
